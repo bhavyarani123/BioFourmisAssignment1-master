@@ -1,0 +1,23 @@
+#product image
+        //*[@id="center_column"]/ul/li/div/div[1]/div/a[1]
+
+        #add to cart button
+        //*[@id="center_column"]/ul/li/div/div[2]/div[2]/a[1]
+
+        #proceed to checkout
+        //*[@id="layer_cart"]/div[1]/div[2]/div[4]/a
+        #proceed to checkout
+        //*[@id="center_column"]/p[2]/a[1]
+
+        #proceed button
+        //*[@id="center_column"]/form/p/button
+
+        #i agree
+        //*[@id="cgv"]
+
+        #proceed 
+        //*[@id="form"]/p/button
+        #payment method
+        //*[@id="HOOK_PAYMENT"]/div[1]/div/p/a
+        # i confirm my order
+        //*[@id="cart_navigation"]/button
